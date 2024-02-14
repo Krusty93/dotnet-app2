@@ -6,6 +6,6 @@ This is a template to build dotnet applications.
 
 Find and replace all placeholder:
 
-- `<your-repo-name>`: use the name of your new repo
-- `<your-project>`: use the name of your project
-- `<your-environment>`: use the name of your current environment
+- `dotnet-app2`: use the name of your new repo
+- `dotnet`: use the name of your project
+- `prod`: use the name of your current environment

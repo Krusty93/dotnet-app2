@@ -12,6 +12,6 @@ module "repository" {
   source = "github.com/pagopa/selfcare-commons//infra/terraform-modules/github_repository_settings?ref=main"
 
   github = {
-    repository = "<your-repo-name>"
+    repository = "dotnet-app2"
   }
 }
